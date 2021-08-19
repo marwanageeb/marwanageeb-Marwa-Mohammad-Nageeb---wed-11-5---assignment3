@@ -7,8 +7,7 @@
     <meta name="viewport" content="width=
     , initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/stylee.css">
+    <link rel="stylesheet" href="stylee.css">
 </head>
 
 <body>
