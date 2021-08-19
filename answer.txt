@@ -1,0 +1,12 @@
+ 1 - What is the suitable request method for this app: GET
+or POST ? 
+ answer is: get
+  coz data will not send to database and data doesnt  contain password
+or other sensitive information to be sent to the server 
+2- How will you send the result back to the form page ? 
+ passing a variable using the url
+  first add a '?' to the end of the normal url 
+  after the "?" add the name of the variable 
+   put an "=" then add the value assigned to the variable name
+ To get the value of the variable
+  varName use $_GET ["varName"] 
